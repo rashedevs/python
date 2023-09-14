@@ -45,11 +45,11 @@
 
 # while loop: '_' is used with 00 for more readable code.
 
-i = 1
-while i <= 10:
-    # while i <= 1_000:
-    print(i * "*")
-    i += 1
+# i = 1
+# while i <= 10:
+#     # while i <= 1_000:
+#     print(i * "*")
+#     i += 1
 
 # List
 
